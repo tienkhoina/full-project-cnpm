@@ -1,0 +1,14 @@
+# Ẩn thư mục node_modules
+node_modules/
+
+# Ẩn file .env
+.env
+
+# Ẩn thư mục __pycache__ trong thư mục python
+src/chatbot/python/__pycache__/ 
+
+# Ẩn thư mục env trong thư mục python
+src/chatbot/python/env/
+
+# Ẩn file gemini_api.txt trong thư mục python
+src/chatbot/python/gemini_api.txt
